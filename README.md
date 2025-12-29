@@ -1,4 +1,4 @@
-Nexus AI Assistant 🚀
+                                                                                       Nexus AI Assistant 🚀
 Nexus AI is a premium, multi-modal artificial intelligence platform designed for seamless interaction and creativity. From text-based assistance to voice commands and high-fidelity image generation, Nexus provides a unified "Creative Studio" experience.
 
 📸 Interface Preview
