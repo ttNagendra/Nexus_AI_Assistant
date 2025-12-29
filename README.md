@@ -4,15 +4,27 @@ Nexus AI is a premium, multi-modal artificial intelligence platform designed for
 📸 Interface Preview
 🔐 Secure Access
 A clean, dark-themed authentication system with support for traditional email and OAuth (Google/GitHub) login providers.
+<p align="center">
+  <img src="./images/login.png" width="800" title="Nexus Assistant Interface">
+</p>
 
 🤖 Intelligent Assistant
 The core chat interface powered by Gemini Lite, featuring real-time scoped persistence and file/image upload capabilities.
+<p align="center">
+  <img src="./images/assistant.png" width="800" title="Nexus Assistant Interface">
+</p>
 
 🎨 Creative Studio
 A dedicated workspace for text-to-image generation. Choose your prompt, select aspect ratios (1:1, 16:9, 9:16), and "Generate Magic."
+<p align="center">
+  <img src="./images/studio.png" width="800" title="Nexus Assistant Interface">
+</p>
 
 🎙️ Voice Interaction
 A hands-free experience featuring a real-time audio monitor for natural conversations with the AI.
+<p align="center">
+  <img src="./images/voice.png" width="800" title="Nexus Assistant Interface">
+</p>
 
 ✨ Key Features
 Multi-Modal Chat: Interact via text, images, or file uploads.
